@@ -1,0 +1,17 @@
+[
+    {
+        "p_rel_url" : "AnjanD17/Paris-Olympics-Azure-Data-Engineering/refs/heads/main/Resources/athletes.csv",
+        "p_folder" : "Athletes",
+        "p_file" : "Athletes.parquet"
+    },
+    {
+        "p_rel_url" : "AnjanD17/Paris-Olympics-Azure-Data-Engineering/refs/heads/main/Resources/coaches.csv",
+        "p_folder" : "Coaches",
+        "p_file" : "Coaches.parquet"
+    },
+    {
+        "p_rel_url" : "AnjanD17/Paris-Olympics-Azure-Data-Engineering/refs/heads/main/Resources/events.csv",
+        "p_folder" : "Events",
+        "p_file" : "Events.parquet"
+    }
+]
